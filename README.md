@@ -1,8 +1,10 @@
+![Herc-Global-Banner](./assets/Herc_logo.png)
+
 # Hello there!👋, many thanks for stopping by.
 # Welcome to HeRC-Global Github Profile!
 
 # 🌍 Health Research Cloud (HeRC) — Research Made Familiar!
-![Herc-Global-Banner](./assets/Herc_logo.png)
+
 
 > **Making health research accessible and actionable for real-world change.**
 
