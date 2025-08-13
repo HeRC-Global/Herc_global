@@ -2,7 +2,7 @@
 # Welcome to HeRC-Global Github Profile!
 
 # 🌍 Health Research Cloud (HeRC) — Research Made Familiar!
-![Herc-Global-Banner](./Herc_logo.png)
+![Herc-Global-Banner](./assets/Herc_logo.png)
 
 > **Making health research accessible and actionable for real-world change.**
 
@@ -31,14 +31,14 @@ As we grow, **HeRC** aspires to expand into:
 - Community-based projects  
 - Digital learning tools  
 - Partnerships that drive evidence-based change in public health  
-```
----
 
-## 🖥 Who We Are
+ ### 🖥 Who we are
+```
+
 
 ┌─[HeRC@github]─[~HeRC-Global]
 └──╼ whoami
-**HeRC-Global**
+
 🌍 Youth-led Health Research Initiative
 
 📍 Based in Kenya (Global Collaboration)
@@ -47,12 +47,14 @@ As we grow, **HeRC** aspires to expand into:
 📍 Based in Kenya (Global Collaboration)
 
 👥 Diverse team of students, healthcare professionals, and researchers
+📈 Focused on making health research accessible to all
 📊 Translating complex research → simple, actionable insights
+
 ┌─[HeRC@github]─[~HeRC-Global]
 └──╼ $
 
 
----
+
 ```
 
 ## 🤝 Join Us
