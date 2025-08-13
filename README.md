@@ -31,10 +31,11 @@ As we grow, **HeRC** aspires to expand into:
 - Community-based projects  
 - Digital learning tools  
 - Partnerships that drive evidence-based change in public health  
-
+```
 ---
 
 ## 🖥 Who We Are
+
 ┌─[HeRC@github]─[~HeRC-Global]
 └──╼ whoami
 **HeRC-Global**
@@ -52,6 +53,7 @@ As we grow, **HeRC** aspires to expand into:
 
 
 ---
+```
 
 ## 🤝 Join Us
 We welcome collaborators, contributors, and partners.  
