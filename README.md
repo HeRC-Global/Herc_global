@@ -38,8 +38,17 @@ As we grow, **HeRC** aspires to expand into:
 ┌─[HeRC@github]─[~HeRC-Global]
 └──╼ whoami
 🌍 Youth-led Health Research Initiative
+<<<<<<< HEAD
 📍 Based in Kenya (Global Collaboration)
 📊 Translating complex research → simple, actionable insights
+=======
+
+📍 Based in Kenya (Global Collaboration)
+
+👥 Diverse team of students, healthcare professionals, and researchers
+📊 Translating complex research → simple, actionable insights
+
+>>>>>>> 8927824 (Initial Commit)
 ┌─[HeRC@github]─[~HeRC-Global]
 └──╼ $
 
@@ -51,7 +60,13 @@ We welcome collaborators, contributors, and partners.
 Whether you're a **student**, **healthcare professional**, or simply **curious about research**, you can be part of the change.
 
 📩 **Contact:** healthresearchcloud@gmail.com  
+<<<<<<< HEAD
 🌐 **Website:** https://www.linkedin.com/company/health-research-cloud-herc 
+=======
+
+🌐 **Website:** https://www.linkedin.com/company/health-research-cloud-herc 
+
+>>>>>>> 8927824 (Initial Commit)
 🐙 **GitHub:** [github.com/HeRC-Global](https://github.com/HeRC-Global)
 
 ---
