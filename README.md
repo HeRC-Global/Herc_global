@@ -42,15 +42,12 @@ As we grow, **HeRC** aspires to expand into:
 └──╼ whoami
 
 🌍 Youth-led Health Research Initiative
-
 📍 Based in Kenya (Global Collaboration)
+
 📊 Translating complex research → simple, actionable insights
-
-📍 Based in Kenya (Global Collaboration)
-
 👥 Diverse team of students, healthcare professionals, and researchers
+
 📈 Focused on making health research accessible to all
-📊 Translating complex research → simple, actionable insights
 
 ┌─[HeRC@github]─[~HeRC-Global]
 └──╼ $
